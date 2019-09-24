@@ -2,7 +2,7 @@
  * NAMA              : FATAHILLAH SATRIA BIMA SENO
  * KELAS             : IF-01
  * NIM               : 10118039
- * DESKRIPSI PROGRAM :   
+ * DESKRIPSI PROGRAM : Program ini berisi program yang digunakan untuk pembelajaran variabel global   
  */
 
 public class KambingGlobal {
